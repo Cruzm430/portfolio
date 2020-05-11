@@ -17,14 +17,14 @@ const Contact = () => {
             <p className="contact-wrapper__text">
               {cta || 'Would you like to work with me? Awesome!'}
             </p>
-            <a
+            {/* <a
               target="_blank"
               rel="noopener noreferrer"
               className="cta-btn cta-btn--resume"
               href={email ? `mailto:${email}` : 'https://www.linkedin.com/in/mark-estepa-cruz/'}
             >
               {btn || "Let's Talk"}
-            </a>
+            </a> */}
           </div>
         </Fade>
       </Container>
