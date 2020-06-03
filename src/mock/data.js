@@ -50,7 +50,7 @@ export const projectsData = [
     title: 'CocktailDB',
     info: `Looking for a drink while in quarantine? Check out CocktailDB! Using React and the CocktailDB API, look up cocktails and how to make them at home!`,
     info2: '',
-    url: 'https://polar-caverns-05763.herokuapp.com/',
+    url: 'http://cocktaildbs.herokuapp.com/',
     repo: 'https://github.com/Cruzm430/cocktailsDB', // if no repo, the button will not show up
   },
 ];
