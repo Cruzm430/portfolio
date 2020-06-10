@@ -21,7 +21,7 @@ export const aboutData = {
   paragraphOne:'Hello! My name is Mark Cruz, I am a Full Stack Javascript Developer in the New York/New Jersey area who graduated from CUNY Baruch and Fullstack Academy.',
   paragraphTwo:`Whether through being an advocate to the community through the NYC Mayor's Office, being a music teacher for the youth, or making sure patients are safe as a Risk Management Specialist for a pharmaceutical company, my one goal was always to help people. This is what drove me to software development. Instead of me being the middleman, I wanted to learn the tools to empower people to help themselves through applications that can be built.`,
   paragraphThree: 'I became fluent in Javascript by using the React, Redux framweorks as well as Postgres and Node for backend development. Below are just a few of the things I work on in my free time. I would love to take these skills and bring them to a company to help do some real good in the world and help a lot of people.',
-  resume: 'https://drive.google.com/open?id=1UoP3ecnD3dI1MZDc3H8RplwIH_PkpA0G', // if no resume, the button will not show up
+  resume: 'https://resume.io/r/uJ1sPmhmu', // if no resume, the button will not show up
 };
 
 // PROJECTS DATA
