@@ -28,12 +28,12 @@ export const aboutData = {
 export const projectsData = [
   {
     id: uuidv1(),
-    img: 'FlightClubShot.png',
-    title: 'Grace Shopper - PMGZ',
-    info: 'As a group project for Fullstack Academy NYC, we were tasked with creating a Fullstack application',
-    info2: 'This Ecommerce clone uses Node, React, Redux and Postgres',
-    url: 'https://cruzapp-1.herokuapp.com/#/',
-    repo: 'https://github.com/Cruzm430/PGMZ-Flight-Club', // if no repo, the button will not show up
+    img: 'CrwnShot.png',
+    title: 'Crwn Clothing LTD.',
+    info: 'A faux e-commerce web application that allows user creation through email/password entry or google oAuth to keep state of the cart of the user and even let them check out',
+    info2: 'This application written in React uses Redux for state management, Google Firebase for user authentication and creation and Stripe to simulate checkout',
+    url: 'https://cruz-crwn-ltd.herokuapp.com/',
+    repo: 'https://github.com/Cruzm430/crwn-clothing', // if no repo, the button will not show up
   },
   {
     id: uuidv1(),
@@ -52,6 +52,15 @@ export const projectsData = [
     info2: '',
     url: 'http://cocktaildbs.herokuapp.com/',
     repo: 'https://github.com/Cruzm430/cocktailsDB', // if no repo, the button will not show up
+  },
+  {
+    id: uuidv1(),
+    img: 'FlightClubShot.png',
+    title: 'Grace Shopper - PMGZ',
+    info: 'As a group project for Fullstack Academy NYC, we were tasked with creating a Fullstack application',
+    info2: 'This Ecommerce clone uses Node, React, Redux and Postgres',
+    url: 'https://cruzapp-1.herokuapp.com/#/',
+    repo: 'https://github.com/Cruzm430/PGMZ-Flight-Club', // if no repo, the button will not show up
   },
 ];
 
